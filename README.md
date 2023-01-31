@@ -1,4 +1,4 @@
-<h1>Coloring Graph</h1>
+<h1>Facility Location</h1>
 
 <h2>Description</h2>
 This project is trying to solve the famous NP complete facility location, where the goal is to try to find the least cost to allocate each customers to a facility that can coverage the customer's needs with its x,y coordinates, capacity, and facility setup cost.
